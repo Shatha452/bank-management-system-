@@ -1,0 +1,5 @@
+CurrentAccount,123,salsabeel,3000.0,200.0
+SavingsAccount,1234,shatha,2800.0,300.0
+SavingsAccount,12345,shatha,2800.0,300.0
+CurrentAccount,77,laith,9999.0,550.0
+CurrentAccount,90,fff,20000.0,200.0
